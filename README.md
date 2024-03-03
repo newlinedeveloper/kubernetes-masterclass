@@ -1,2 +1,2 @@
 # kubernetes-masterclass
-Kubernetes master class session
+Kubernetes master class
